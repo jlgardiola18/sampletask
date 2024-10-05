@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Chapter3.ReverseString",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "Chapter3.GFG",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "ReversedString",
+            "request": "launch",
+            "mainClass": "Chapter3.ReversedString",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Chick",
+            "request": "launch",
+            "mainClass": "Chapter1.Chick",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "CurrentDT",
+            "request": "launch",
+            "mainClass": "Chapter1.CurrentDT",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "ImportExample",
+            "request": "launch",
+            "mainClass": "Chapter1.ImportExample",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "Modifier",
+            "request": "launch",
+            "mainClass": "Chapter1.Modifier",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "ParkRanger",
+            "request": "launch",
+            "mainClass": "Chapter1.ParkRanger",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Chapter1.Static",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "ClassB",
+            "request": "launch",
+            "mainClass": "Chapter1.packageb.ClassB",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "INNEROUTER",
+            "request": "launch",
+            "mainClass": "Chapter2.INNEROUTER",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "LoopsLesson",
+            "request": "launch",
+            "mainClass": "Chapter2.LoopsLesson",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsLesson",
+            "request": "launch",
+            "mainClass": "Chapter2.OperatorsLesson",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Chapter2.Practice",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "StatementsLesson",
+            "request": "launch",
+            "mainClass": "Chapter2.StatementsLesson",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "StringLesson",
+            "request": "launch",
+            "mainClass": "Chapter3.StringLesson",
+            "projectName": "sampletask_f9c6d991"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "sampletask_f9c6d991"
+        }
+    ]
+}
